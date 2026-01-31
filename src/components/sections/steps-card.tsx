@@ -25,7 +25,7 @@ const steps = [
 
 const StepsCard = () => {
   return (
-    <div className="relative bg-white backdrop-blur-sm rounded-lg mb-2 border-2 border-[#cf102d] shadow-xl overflow-hidden">
+    <div className="relative bg-white backdrop-blur-sm rounded-lg mb-2 border-4 border-[#cf102d] shadow-xl overflow-hidden">
       <ol className="relative z-10 text-left space-y-1 text-foreground p-2.5 !text-base !rounded-none">
         {steps.map((step, index) => {
           const Icon = step.icon;
