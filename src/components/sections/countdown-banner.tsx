@@ -39,7 +39,7 @@ const CountdownBanner = () => {
         <Snowflake className="w-3 h-3 text-white/50 animate-pulse flex-shrink-0" />
         <p className="text-white text-xs md:text-sm font-medium">
           <span className="font-bold">
-            You have {formattedTime} minutes left to unlock your Wingstop reward
+            You have {formattedTime} minutes left to unlock your T.J. Maxx reward
           </span>
         </p>
         <Snowflake className="w-3 h-3 text-white/50 animate-pulse flex-shrink-0" />
