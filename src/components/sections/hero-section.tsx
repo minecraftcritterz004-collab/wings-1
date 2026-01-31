@@ -6,13 +6,13 @@ const HeroSection = () => {
       <div className="max-w-lg mx-auto text-center">
                   <div className="mb-0 flex flex-col items-center p-0 m-0">
                         <div className="w-35 mb-0 p-0 m-0">
-                    <Image
-                      src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/WING.D-0148b42a-1765874273955.png"
-                      alt="Wingstop Logo"
-                      width={176}
-                      height={176}
-                      className="w-full h-auto object-contain drop-shadow-xl block p-0 m-0"
-                    />
+                      <Image
+                        src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/project-uploads/83abdcc4-db4d-44a0-8a0d-ed5e2c75b052/44225b2a-8841-4fac-9781-d5d6e9dd9575-removebg-preview-1769847819158.png?width=8000&height=8000&resize=contain"
+                        alt="T.J. Maxx Logo"
+                        width={176}
+                        height={176}
+                        className="w-full h-auto object-contain drop-shadow-xl block p-0 m-0"
+                      />
                   </div>
 
               <div className="relative mb-6 mt-6 animate-float">
