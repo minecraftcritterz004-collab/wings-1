@@ -43,7 +43,7 @@
   --color-destructive: #ef4444;
   --color-destructive-foreground: #fafafa;
 
-  --color-border: rgb(46, 107, 83);
+  --color-border: rgba(207, 16, 45, 0.3);
   --color-input: #E4B363;
   --color-ring: #FFD700;
 
@@ -53,7 +53,7 @@
   --color-chart-4: #f1c40f;
   --color-chart-5: #e74c3c;
 
-  --color-sidebar: #1a4d3a;
+  --color-sidebar: #2d0d0d;
   --color-sidebar-foreground: #FFFFFF;
   --color-sidebar-primary: #E4B363;
   --color-sidebar-primary-foreground: #FFFFFF;
