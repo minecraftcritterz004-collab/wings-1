@@ -18,11 +18,11 @@ const HeroSection = () => {
               <div className="relative mb-6 mt-6 animate-float">
             <div className="relative inline-block">
                     <Image
-                      src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/Untitled-design-3-1765878937787.png?width=8000&height=8000&resize=contain"
-                        alt="T.J. Maxx Card"
-                        width={288}
-                        height={435}
-                        className="w-56 h-auto mx-auto drop-shadow-2xl relative z-10"
+                      src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/project-uploads/83abdcc4-db4d-44a0-8a0d-ed5e2c75b052/Untitled-1057-x-698-px-1769848018061.png?width=8000&height=8000&resize=contain"
+                        alt="T.J. Maxx Valentine's Card"
+                        width={1057}
+                        height={698}
+                        className="w-56 h-auto mx-auto drop-shadow-2xl relative z-10 rounded-[2rem] overflow-hidden"
                       />
                 <div className="absolute inset-0 bg-gradient-radial from-accent/20 to-transparent blur-3xl -z-10"></div>
               </div>
