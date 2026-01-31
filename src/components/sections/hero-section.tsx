@@ -19,22 +19,22 @@ const HeroSection = () => {
             <div className="relative inline-block">
                     <Image
                       src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/Untitled-design-3-1765878937787.png?width=8000&height=8000&resize=contain"
-                      alt="Ranch Money Wingstop Card"
-                      width={288}
-                      height={435}
-                      className="w-56 h-auto mx-auto drop-shadow-2xl relative z-10"
-                    />
-              <div className="absolute inset-0 bg-gradient-radial from-accent/20 to-transparent blur-3xl -z-10"></div>
+                        alt="T.J. Maxx Card"
+                        width={288}
+                        height={435}
+                        className="w-56 h-auto mx-auto drop-shadow-2xl relative z-10"
+                      />
+                <div className="absolute inset-0 bg-gradient-radial from-accent/20 to-transparent blur-3xl -z-10"></div>
+              </div>
             </div>
-          </div>
-
-            <h1 className="text-lg md:text-xl font-bold text-foreground mb-1.5 px-2 relative">
-              <Star className="w-2.5 h-2.5 text-accent absolute -top-0.5 left-3 animate-pulse" />
-              Unlock{' '}
-                  <span className="inline-flex items-center gap-1" style={{ color: '#cf102d' }}>
-                    Wingstop Rewards
-                    <Gift className="w-4 h-4 inline-block" style={{ color: '#cf102d' }} />
-                </span>
+  
+              <h1 className="text-lg md:text-xl font-bold text-foreground mb-1.5 px-2 relative">
+                <Star className="w-2.5 h-2.5 text-accent absolute -top-0.5 left-3 animate-pulse" />
+                Unlock{' '}
+                    <span className="inline-flex items-center gap-1" style={{ color: '#cf102d' }}>
+                      T.J. Maxx Rewards
+                      <Gift className="w-4 h-4 inline-block" style={{ color: '#cf102d' }} />
+                  </span>
               <Snowflake className="w-2.5 h-2.5 text-black/20 absolute -bottom-0.5 right-3 animate-pulse" />
             </h1>
 
