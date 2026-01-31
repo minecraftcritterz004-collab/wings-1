@@ -238,7 +238,6 @@
     font-size: 18px;
     font-weight: 700;
     line-height: 1.2;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
   }
 
   @media (min-width: 768px) {
@@ -251,7 +250,6 @@
     font-size: 12px;
     font-weight: 500;
     line-height: 1.4;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
   }
 
   small {
