@@ -16,49 +16,49 @@ const AnimatedBackground = () => {
       </div>
 
       <div className="fixed inset-0 pointer-events-none overflow-hidden opacity-15">
-            <Image
-              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/project-uploads/83abdcc4-db4d-44a0-8a0d-ed5e2c75b052/44225b2a-8841-4fac-9781-d5d6e9dd9575-removebg-preview-1769847819158.png?width=8000&height=8000&resize=contain"
-              alt=""
-              width={80}
-              height={80}
-              className="absolute top-24 left-12 w-20 h-20 object-contain animate-float-gentle"
-            />
-            <Image
-              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/project-uploads/83abdcc4-db4d-44a0-8a0d-ed5e2c75b052/Untitled-1057-x-698-px-1769848018061.png?width=8000&height=8000&resize=contain"
-              alt=""
-              width={160}
-              height={160}
-              className="absolute top-32 right-16 w-32 h-32 object-contain animate-float-gentle rounded-lg"
-            />
-            <Image
-              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/project-uploads/83abdcc4-db4d-44a0-8a0d-ed5e2c75b052/44225b2a-8841-4fac-9781-d5d6e9dd9575-removebg-preview-1769847819158.png?width=8000&height=8000&resize=contain"
-              alt=""
-              width={160}
-              height={160}
-              className="absolute top-1/3 left-20 w-32 h-32 object-contain animate-float-gentle"
-            />
-            <Image
-              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/project-uploads/83abdcc4-db4d-44a0-8a0d-ed5e2c75b052/Untitled-1057-x-698-px-1769848018061.png?width=8000&height=8000&resize=contain"
-              alt=""
-              width={160}
-              height={160}
-              className="absolute top-1/2 right-24 w-32 h-32 object-contain animate-float-gentle rounded-lg"
-            />
-            <Image
-              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/project-uploads/83abdcc4-db4d-44a0-8a0d-ed5e2c75b052/44225b2a-8841-4fac-9781-d5d6e9dd9575-removebg-preview-1769847819158.png?width=8000&height=8000&resize=contain"
-              alt=""
-              width={160}
-              height={160}
-              className="absolute bottom-40 left-16 w-20 h-20 object-contain animate-float-gentle"
-            />
-            <Image
-              src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/project-uploads/83abdcc4-db4d-44a0-8a0d-ed5e2c75b052/Untitled-1057-x-698-px-1769848018061.png?width=8000&height=8000&resize=contain"
-              alt=""
-              width={80}
-              height={80}
-              className="absolute bottom-32 right-20 w-24 h-24 object-contain animate-float-gentle rounded-lg"
-            />
-        </div>
+              <Image
+                src="https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&q=80&w=200"
+                alt="Handbag"
+                width={100}
+                height={100}
+                className="absolute top-24 left-12 w-20 h-20 object-cover animate-float-gentle rounded-full border-2 border-accent/20"
+              />
+              <Image
+                src="https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=200"
+                alt="Perfume"
+                width={120}
+                height={120}
+                className="absolute top-32 right-16 w-24 h-24 object-cover animate-float-gentle rounded-full border-2 border-accent/20"
+              />
+              <Image
+                src="https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&q=80&w=200"
+                alt="Sunglasses"
+                width={100}
+                height={100}
+                className="absolute top-1/3 left-20 w-20 h-20 object-cover animate-float-gentle rounded-full border-2 border-accent/20"
+              />
+              <Image
+                src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&q=80&w=200"
+                alt="Jewelry"
+                width={120}
+                height={120}
+                className="absolute top-1/2 right-24 w-24 h-24 object-cover animate-float-gentle rounded-full border-2 border-accent/20"
+              />
+              <Image
+                src="https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&q=80&w=200"
+                alt="Heels"
+                width={100}
+                height={100}
+                className="absolute bottom-40 left-16 w-20 h-20 object-cover animate-float-gentle rounded-full border-2 border-accent/20"
+              />
+              <Image
+                src="https://images.unsplash.com/photo-1544816153-12ad58fd3f5a?auto=format&fit=crop&q=80&w=200"
+                alt="Beauty"
+                width={80}
+                height={80}
+                className="absolute bottom-32 right-20 w-16 h-16 object-cover animate-float-gentle rounded-full border-2 border-accent/20"
+              />
+          </div>
     </>
   );
 };
