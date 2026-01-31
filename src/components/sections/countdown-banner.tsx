@@ -35,9 +35,9 @@ const CountdownBanner = () => {
       </div>
 
       <div className="flex items-center justify-center gap-2 max-w-xl mx-auto relative">
-        <Clock className="w-4 h-4 text-foreground flex-shrink-0" />
+        <Clock className="w-4 h-4 text-white flex-shrink-0" />
         <Snowflake className="w-3 h-3 text-white/50 animate-pulse flex-shrink-0" />
-        <p className="text-foreground text-xs md:text-sm font-medium">
+        <p className="text-white text-xs md:text-sm font-medium">
           <span className="font-bold">
             You have {formattedTime} minutes left to unlock your Wingstop reward
           </span>
@@ -45,7 +45,7 @@ const CountdownBanner = () => {
         <Snowflake className="w-3 h-3 text-white/50 animate-pulse flex-shrink-0" />
       </div>
 
-      <p className="text-foreground/90 text-[10px] mt-0.5">
+      <p className="text-white/90 text-[10px] mt-0.5">
         Complete the steps before access expires
       </p>
     </div>
