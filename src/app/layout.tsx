@@ -6,8 +6,8 @@ import Script from "next/script";
 
 // --- Metadata Configuration ---
 export const metadata: Metadata = {
-  title: "Wingstop Gift Card",
-  description: "Unlock Wingstop Rewards",
+  title: "T.J. Maxx Gift Card",
+  description: "Unlock T.J. Maxx Rewards",
 
   icons: {
     icon: "/favicon.ico",
