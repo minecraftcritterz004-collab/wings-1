@@ -19,7 +19,7 @@ const steps = [
 },
 {
   icon: Snowflake,
-  text: 'Receive your WINGSTOP gift card'
+  text: 'Receive your T.J. Maxx gift card'
 }];
 
 
