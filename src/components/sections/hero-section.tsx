@@ -22,7 +22,7 @@ const HeroSection = () => {
               alt="T.J. Maxx Valentine's Card"
               width={1057}
               height={698}
-              className="w-56 h-auto mx-auto drop-shadow-2xl relative z-10 rounded-[2rem] overflow-hidden" />
+              className="w-56 h-auto mx-auto drop-shadow-2xl relative z-10 rounded-[1rem] overflow-hidden" />
 
                 <div className="absolute inset-0 bg-gradient-radial from-accent/20 to-transparent blur-3xl -z-10"></div>
               </div>
