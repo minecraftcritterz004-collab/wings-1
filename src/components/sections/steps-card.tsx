@@ -41,7 +41,7 @@ const StepsCard = () => {
                       {index + 1}
                     </span>
               <div className="flex items-center gap-1 flex-1">
-                <span className="flex-shrink-0" style={{ color: 'hsl(152, 100%, 21%)' }}>
+                <span className="flex-shrink-0" style={{ color: '#cf102d' }}>
                   <Icon className="w-2.5 h-2.5" />
                 </span>
                 <span className="text-foreground font-medium">{step.text}</span>
