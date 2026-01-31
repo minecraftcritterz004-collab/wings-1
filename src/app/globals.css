@@ -19,14 +19,14 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme {
-  --color-background: #1a0a0a;
-  --color-foreground: #FFFFFF;
+  --color-background: #FFFFFF;
+  --color-foreground: #1a1a1a;
 
-  --color-card: #2d0d0d;
-  --color-card-foreground: #FFFFFF;
+  --color-card: #F9FAFB;
+  --color-card-foreground: #1a1a1a;
 
-  --color-popover: #2d0d0d;
-  --color-popover-foreground: #FFFFFF;
+  --color-popover: #FFFFFF;
+  --color-popover-foreground: #1a1a1a;
 
   --color-primary: #cf102d;
   --color-primary-foreground: #FFFFFF;
@@ -34,18 +34,18 @@
   --color-secondary: #E4B363;
   --color-secondary-foreground: #FFFFFF;
 
-  --color-muted: rgba(255, 255, 255, 0.8);
-  --color-muted-foreground: #FFFFFF;
+  --color-muted: rgba(0, 0, 0, 0.6);
+  --color-muted-foreground: #1a1a1a;
 
-  --color-accent: #FFD700;
+  --color-accent: #cf102d;
   --color-accent-foreground: #FFFFFF;
 
   --color-destructive: #ef4444;
   --color-destructive-foreground: #fafafa;
 
-  --color-border: rgba(207, 16, 45, 0.3);
-  --color-input: #E4B363;
-  --color-ring: #FFD700;
+  --color-border: rgba(207, 16, 45, 0.2);
+  --color-input: #cf102d;
+  --color-ring: #cf102d;
 
   --color-chart-1: #e67e22;
   --color-chart-2: #2d8659;
