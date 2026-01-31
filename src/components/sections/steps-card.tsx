@@ -25,9 +25,9 @@ const steps = [
 
 const StepsCard = () => {
   return (
-    <div className="relative bg-primary/40 backdrop-blur-sm rounded-lg mb-2 border border-accent/20 shadow-2xl overflow-hidden">
+    <div className="relative bg-white backdrop-blur-sm rounded-lg mb-2 border border-accent/20 shadow-xl overflow-hidden">
         <div
-          className="absolute inset-0 bg-center bg-no-repeat bg-cover pointer-events-none opacity-10"
+          className="absolute inset-0 bg-center bg-no-repeat bg-cover pointer-events-none opacity-5"
           style={{
             backgroundImage: "url('https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/F8TAbQd-1765887291157.png?width=8000&height=8000&resize=contain')"
           }}>
