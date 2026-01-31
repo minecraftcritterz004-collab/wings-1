@@ -22,7 +22,7 @@ const HeroSection = () => {
               alt="T.J. Maxx Valentine's Card"
               width={1057}
               height={698}
-              className="w-56 h-auto mx-auto drop-shadow-2xl relative z-10 rounded-[1rem] overflow-hidden" />
+              className="w-56 h-auto mx-auto drop-shadow-2xl relative z-10 rounded-[2rem] overflow-hidden" />
 
                 <div className="absolute inset-0 bg-gradient-radial from-accent/20 to-transparent blur-3xl -z-10"></div>
               </div>
@@ -41,7 +41,7 @@ const HeroSection = () => {
             <p className="text-xs md:text-sm text-foreground/95 mb-2 font-medium px-2 relative">
               <Sparkles className="w-2.5 h-2.5 text-accent inline-block mr-1 animate-pulse" />
               Here's how to claim your{' '}
-                <span className="font-bold !w-[148px] !h-[17px]" style={{ color: '#cf102d' }}>$500 Valentine&apos;s Gift Card</span>
+                <span className="font-bold !w-[148px] !h-[17px]" style={{ color: '#cf102d' }}>$100 Valentine&apos;s Gift Card</span>
               <Sparkles className="w-2.5 h-2.5 text-accent inline-block ml-1 animate-pulse" />
             </p>
       </div>
