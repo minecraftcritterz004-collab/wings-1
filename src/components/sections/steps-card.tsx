@@ -37,7 +37,7 @@ const StepsCard = () => {
           const Icon = step.icon;
           return (
             <li key={index} className="flex items-start gap-1.5 text-[11px] md:text-xs">
-                    <span className="flex-shrink-0 w-4 h-4 rounded-full flex items-center justify-center font-bold text-[9px] mt-0.5 text-white" style={{ backgroundColor: 'hsl(152, 100%, 21%)', color: '#ffffff' }}>
+                    <span className="flex-shrink-0 w-4 h-4 rounded-full flex items-center justify-center font-bold text-[9px] mt-0.5 text-white" style={{ backgroundColor: '#cf102d', color: '#ffffff' }}>
                       {index + 1}
                     </span>
               <div className="flex items-center gap-1 flex-1">
