@@ -21,7 +21,7 @@ const CountdownBanner = () => {
   const formattedTime = `${minutes}:${seconds.toString().padStart(2, '0')}`;
 
   return (
-    <div className="border-b-2 border-accent/30 py-2 px-4 text-center relative z-10 overflow-hidden !bg-[#08472d]">
+    <div className="border-b-2 border-accent/30 py-2 px-4 text-center relative z-10 overflow-hidden !bg-[#cf102d]">
       <div className="absolute top-0 left-0 right-0 pointer-events-none">
         <div className="flex justify-around">
           <Snowflake className="w-6 h-6 text-white/40 -mt-2" />
