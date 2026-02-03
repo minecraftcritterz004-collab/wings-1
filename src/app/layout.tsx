@@ -6,7 +6,7 @@ import Script from "next/script";
 
 // --- Metadata Configuration ---
 export const metadata: Metadata = {
-  title: "T.J. Maxx Rewards,
+  title: "T.J. Maxx Rewards",
   description: "Unlock T.J. Maxx Rewards",
 
   icons: {
