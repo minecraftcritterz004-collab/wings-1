@@ -41,7 +41,7 @@ const HeroSection = () => {
             <p className="text-xs md:text-sm text-black/95 mb-2 font-medium px-2 relative">
             <Sparkles className="w-2.5 h-2.5 text-accent inline-block mr-1 animate-pulse" />
             Here&apos;s how to claim your{' '}
-              <span className="font-bold !w-[148px] !h-[17px]" style={{ color: '#E21E26' }}>$500 Valentine&apos;s Gift Card</span>
+              <span className="font-bold !w-[148px] !h-[17px]" style={{ color: '#E21E26' }}>$100 Valentine&apos;s Gift Card</span>
             <Sparkles className="w-2.5 h-2.5 text-accent inline-block ml-1 animate-pulse" />
           </p>
       </div>
